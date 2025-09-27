@@ -3,7 +3,7 @@
 Esta Política de Privacidade descreve como coletamos, usamos e protegemos as informações fornecidas por nossos usuários.
 
 ## 1. Informações Coletadas
-- Dados fornecidos diretamente pelo usuário (nome, telefone, email, etc.).
+- Dados fornecidos diretamente pelo usuário (nome, telefone, e-mail, etc.).
 - Dados de uso, como interações dentro do WhatsApp Business API.
 
 ## 2. Uso das Informações
